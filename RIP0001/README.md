@@ -63,7 +63,24 @@ status: [raw | draft | stable | deprecated | retired | deleted]
 editor: [Editor Name <email address>]
 contributors: [Optional Contributor 1 <email address>, ..., Optional Contributor N <email address>]
 ```
-````
+*Abstract**: 
+
+**Motivation**:
+
+**Problem Breakdown**:
+
+**Specification**:
+
+**Rationale**:
+
+**Backwards Compatibility**:
+
+ **Implementation**:
+ 
+ **Copyright Waiver**:
+ 
+ 
+Motivation: ````
 _Note: the `number` is assigned after a RIP has been submitted._
 
 Each RIP SHOULD include the following sections:
